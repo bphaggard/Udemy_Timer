@@ -1,8 +1,8 @@
 Basic Timer App from Udemy Course: Comprehensive Guide Kotlin and Jetpack Compose: Zero to Hero
 
 App Contains:
-Jetpack Compose
-ViewModel
+Jetpack Compose,
+ViewModel,
 Animation
 
 UI:
